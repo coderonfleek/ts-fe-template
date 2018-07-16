@@ -1,0 +1,14 @@
+{
+  "name": "ts-fe-seed",
+  "version": "1.0.0",
+  "description": "A Frontend Seed Project for AngularJS Applications",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frontend Team",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.2"
+  }
+}
