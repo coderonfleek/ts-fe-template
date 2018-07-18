@@ -1,6 +1,5 @@
-(function () {
-    
-    "use strict";
+(function() {
+  "use strict";
 
-    angular.module('FETemplate', []);
+  angular.module("FETemplate", ["Shared", "Users"]);
 })();
